@@ -1,4 +1,4 @@
-title Laboratory 1 : Evaluating Simple Arithmetic Expressions
+title Lab1 : Evaluating Simple Arithmetic Expressions
 Include Irvine32.inc
 	p EQU 8d
 .data
